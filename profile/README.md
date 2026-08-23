@@ -18,6 +18,15 @@ Ideas, bug reports, documentation improvements, and pull requests are welcome.
 Please read our [contribution guidelines](../CONTRIBUTING.md) before opening an
 issue or pull request.
 
+## Contributors
+
+Thanks to everyone who contributes code, documentation, design, feedback, and
+ideas across our projects.
+
+<!-- ORGANIZATION-CONTRIBUTORS:START -->
+_No contributors yet._
+<!-- ORGANIZATION-CONTRIBUTORS:END -->
+
 ## Links
 
 - [GitHub organization](https://github.com/Miskatonic-Expedition)
