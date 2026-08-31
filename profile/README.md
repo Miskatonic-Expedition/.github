@@ -25,6 +25,7 @@ ideas across our projects.
 
 <!-- ORGANIZATION-CONTRIBUTORS:START -->
 <a href="https://github.com/Liyuk" title="@Liyuk"><img src="https://avatars.githubusercontent.com/u/5470381?v=4" width="60" alt="@Liyuk" /></a>
+<a href="https://github.com/apps/github-actions" title="@github-actions[bot]"><img src="https://avatars.githubusercontent.com/in/15368?v=4" width="60" alt="@github-actions[bot]" /></a>
 <!-- ORGANIZATION-CONTRIBUTORS:END -->
 
 ## Links
